@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: whitesmoke;
 }
 
 .joke-list {
@@ -9,7 +9,7 @@ body {
 
 .joke-item {
     border: 1px solid blue;
-    color: burlywood;
+    color: darkslategrey;
     margin: 5px 5px 5px 5px;
     padding: 5px 5px 5px 5px;
 }
